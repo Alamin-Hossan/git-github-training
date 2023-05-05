@@ -20,3 +20,14 @@ The quality of a README description often differentiates a good project from a b
 - Some of the challenges you faced and features you hope to implement in the future.
 
 [Click](https://github.com/Alamin-Hossan/git-github-training "Click") here for more details.
+
+## 3. Installation
+Install the project following the steps given below.
+1. Get a free API Key at this [link](https://bjitacademy.com/)
+2. Clone the repo
+``git clone https://github.com/Alamin-Hossan/git-github-training.git``
+3. Install NPM packages
+``npm install``
+4. Enter your API in config.js
+``const API_KEY = 'ENTER YOUR API';``
+
