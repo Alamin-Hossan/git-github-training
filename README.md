@@ -1,10 +1,10 @@
-#Table of Contents
+# Table of Contents
 1. Project Title
 2. Project Description
 3. Installtion
 4. Contributors
 
-##1.Project Title
+## 1.Project Title
 ![](https://github.com/Alamin-Hossan/git-github-training/blob/main/GitImage.PNG?raw=true)
 
 ===============================================================================
@@ -30,4 +30,15 @@ Install the project following the steps given below.
 ``npm install``
 4. Enter your API in config.js
 ``const API_KEY = 'ENTER YOUR API';``
+
+# Contributors
+
+Thank you to the following contributors who have helped to improve this project:
+
+|Name |Email  | Phone|
+:--- | :--- | :---|
+|Md. Alamin Hossain|maalamin.hossain@bjitacademy.com|01765128198|
+|Mehedi Hasan Emo |hasan.emo@bjitacademy.com|01778866201|
+|Md. Mohidul Islam|mohidul.islam@bjitacademy.com|01686577576|
+|Zawadul Islam|zawadul.islam@bjitacademy.com|01674756202|
 
